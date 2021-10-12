@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c86f484-3f58-4993-aa89-550f719dd48a" name="Changes" comment="finished">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task3/gs-rest-service" beforeDir="false" afterPath="$PROJECT_DIR$/task3/gs-rest-service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task4/gs-accessing-data-jpa" beforeDir="false" afterPath="$PROJECT_DIR$/task4/gs-accessing-data-jpa" afterDir="false" />
-    </list>
+    <list default="true" id="0c86f484-3f58-4993-aa89-550f719dd48a" name="Changes" comment="finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DAT250Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -69,6 +64,7 @@
       <workItem from="1633344170120" duration="1360000" />
       <workItem from="1633347601650" duration="2547000" />
       <workItem from="1633509442576" duration="38000" />
+      <workItem from="1634064569366" duration="806000" />
     </task>
     <task id="LOCAL−00001" summary="finished">
       <created>1633349150336</created>
@@ -82,7 +78,25 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1633349528947</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="finished">
+      <created>1634064669401</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1634064669401</updated>
+    </task>
+    <task id="LOCAL−00004" summary="finished">
+      <created>1634064742601</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1634064742601</updated>
+    </task>
+    <task id="LOCAL−00005" summary="finished">
+      <created>1634065289466</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1634065289466</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
